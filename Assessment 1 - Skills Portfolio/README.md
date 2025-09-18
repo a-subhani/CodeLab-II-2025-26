@@ -25,9 +25,11 @@ The program should include the functions listed below. These functions should ma
 - displayProblem: A function that displays the question to the user and accepts their answer.
 -** isCorrect**: A function that checks whether the users answer was correct and outputs an appropriate message
 - **displayResults**: function that outputs the users final score out of a possible 100 and ranks the user based on their score (e.g. A+ for a score over 90)
+
 &nbsp;
-Once the user has finished the quiz, prompt them to see if they'd like to play it again.
- &nbsp;
+Once the user has finished the quiz, prompt them to see if they'd like to play it again
+
+&nbsp;
 **HINT :**
 - Use Labels to display questions and instructions.
 - Use Entry widgets to accept answers.
@@ -51,7 +53,6 @@ Develop a Tkinter GUI application that acts like a joke-telling assistant. The p
 
 &nbsp;
 # Exercise 3 - Student Manager
-### Your solution must be no more than 250 lines of code.
 
 A list of student marks are held in the studentMarks.txt file available in the resources folder. These need to be loaded into a program to analyse the data. The first line is a single integer that gives the number of students in the class. Each subsequent line of the file comprises a student code (between 1000 and 9999), three course marks (each out of 20) and an examination mark (out of 100).
 
@@ -91,12 +92,9 @@ Identify the student with the highest mark and output their results in same form
 ### 4. Show student with lowest overall mark
 Identify the student with the lowest mark and output their results in same format as menu item 1.
 
-&nbsp;
-Expected output - https://www.loom.com/share/0d255bf19b5f4a35b6d50e63b1a48627?sid=35bb32b8-37c6-409b-87d1-94971282147e
 
-&nbsp;Note : You are free to enhance the aesthetics of the app devloped.
 &nbsp;
-## # Student Manager - Extension Problem 
+# Student Manager - Extension Problem 
 
 &nbsp;For an additional challenge add the following options to your menu
     
