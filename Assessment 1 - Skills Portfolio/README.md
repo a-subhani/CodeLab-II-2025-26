@@ -60,7 +60,7 @@ There is one line of data for each student in the class, with each piece of data
 
 8439,Jake Hobbs,10,11,10,43
 
-Your task is to create a program that enables the user to manage this data. As a minimum expectation your program should include the following menu and use appropriate programming techniques to handle the functionality required by each menu item.
+Your task is to create a Tkinter GUI App that enables the user to manage this data. As a minimum expectation your app should include the following menu and use appropriate programming techniques to handle the functionality required by each menu item.
 
 
     1. View all student records
